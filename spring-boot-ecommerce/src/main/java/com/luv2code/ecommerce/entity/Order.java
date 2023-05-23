@@ -13,7 +13,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Entity
-@Table(name="order_item")
+@Table(name="orders")
 @Getter
 @Setter
 public class Order {
